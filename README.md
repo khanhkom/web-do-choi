@@ -1,6 +1,6 @@
 # Tóm tắt dự án WebDoChoi
 
-Dự án WebDoChoi là một ứng dụng web được phát triển bằng ASP.NET Web Forms, sử dụng framework .NET 4.7.2. Dự án này được thiết kế để xây dựng một trang web động với giao diện người dùng thân thiện, sử dụng các công nghệ như HTML, CSS, và JavaScript.
+Dự án WebDoChoi là một ứng dụng web được phát triển bằng ASP.NET Web Forms, sử dụng framework .NET 4.7.2. Dự án này được thiết kế để xây dựng một trang web động với giao diện người dùng thân thiện, sử dụng các công nghệ như HTML, CSS, và JavaScript. Mục đích chính của dự án là cung cấp một nền tảng cho người dùng để tìm hiểu và tương tác với các sản phẩm đồ chơi, đồng thời cung cấp thông tin về dự án và cách liên hệ.
 
 ## Cấu trúc dự án
 
@@ -13,6 +13,8 @@ Dự án WebDoChoi là một ứng dụng web được phát triển bằng ASP.
   - **Site.Master**: File master page chứa bố cục chung cho các trang trong ứng dụng.
   - **Scripts/**: Thư mục chứa các file JavaScript, bao gồm jQuery và Bootstrap.
   - **Content/**: Thư mục chứa các file CSS và các tài nguyên khác.
+  - **Admin/**: Thư mục chứa các file liên quan đến quản trị viên, bao gồm các trang quản lý và cấu hình.
+  - **Client/**: Thư mục chứa các file liên quan đến người dùng, bao gồm các trang giao diện người dùng và chức năng tương tác.
 
 ## Công nghệ sử dụng
 
@@ -25,6 +27,8 @@ Dự án WebDoChoi là một ứng dụng web được phát triển bằng ASP.
 
 - Hiển thị thông tin giới thiệu về ASP.NET và các tài nguyên liên quan.
 - Cung cấp các trang thông tin về dự án và liên hệ.
+- Cho phép người dùng tìm kiếm và xem các sản phẩm đồ chơi.
+- Quản lý và cấu hình hệ thống thông qua giao diện quản trị viên.
 
 ## Cài đặt và chạy dự án
 
