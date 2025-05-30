@@ -207,21 +207,18 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Client\Blog.aspx.cs">
       <DependentUpon>Blog.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Client\Blog.aspx.designer.cs">
       <DependentUpon>Blog.aspx</DependentUpon>
     </Compile>
     <Compile Include="Client\BlogDetails.aspx.cs">
       <DependentUpon>BlogDetails.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Client\BlogDetails.aspx.designer.cs">
       <DependentUpon>BlogDetails.aspx</DependentUpon>
     </Compile>
     <Compile Include="Client\Cart.aspx.cs">
       <DependentUpon>Cart.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Client\Cart.aspx.designer.cs">
       <DependentUpon>Cart.aspx</DependentUpon>
